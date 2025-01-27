@@ -11,7 +11,7 @@
                     "port": "Port"
                 },
                 "data_description": {
-                    "name": "IP de votre boitier 4heat",
+                    "name": "Ip de votre boitier 4heat",
                     "port": "Port de votre boitier 4heat"
                 }
             }
