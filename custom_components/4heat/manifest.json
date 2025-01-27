@@ -1,6 +1,6 @@
 {
-    "domain": "4heat-local",
-    "name": "4heat local",
+    "domain": "4heat",
+    "name": "4heat",
     "version": "0.0.1-a",
     "integration_type": "device",
     "config_flow": true,
