@@ -1,0 +1,9 @@
+{
+    "domain": "4heat-local",
+    "name": "4heat local",
+    "version": "0.0.1",
+    "integration_type": "device",
+    "config_flow": true,
+    "single_config_entry": true,
+    "iot_class": "local_polling"
+}
